@@ -6,3 +6,11 @@
 - [x] Make changes to files and push it
 
 
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circl))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+D-->O
+```
