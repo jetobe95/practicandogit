@@ -1,3 +1,4 @@
+
 # Get Practice Github!!
 
 ## Todo.
@@ -14,3 +15,7 @@ B --> D{Rhombus}
 C --> D
 D-->O
 ```
+# practicandogit
+Practicando FETCH
+Todo
+[ ] Aprender el concepto de las ramas
